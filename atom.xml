@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://white-dhz.github.io</id>
+    <id>https://white_dhz.github.io</id>
     <title>AK dhzkk</title>
-    <updated>2020-03-02T14:49:43.664Z</updated>
+    <updated>2020-03-03T00:11:45.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://white-dhz.github.io"/>
-    <link rel="self" href="https://white-dhz.github.io/atom.xml"/>
+    <link rel="alternate" href="https://white_dhz.github.io"/>
+    <link rel="self" href="https://white_dhz.github.io/atom.xml"/>
     <subtitle>请记住梦想的模样
 </subtitle>
-    <logo>https://white-dhz.github.io/images/avatar.png</logo>
-    <icon>https://white-dhz.github.io/favicon.ico</icon>
+    <logo>https://white_dhz.github.io/images/avatar.png</logo>
+    <icon>https://white_dhz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, AK dhzkk</rights>
     <entry>
         <title type="html"><![CDATA[记住]]></title>
-        <id>https://white-dhz.github.io/post/ji-zhu/</id>
-        <link href="https://white-dhz.github.io/post/ji-zhu/">
+        <id>https://white_dhz.github.io/post/ji-zhu/</id>
+        <link href="https://white_dhz.github.io/post/ji-zhu/">
         </link>
         <updated>2020-02-28T14:41:23.000Z</updated>
         <content type="html"><![CDATA[<p>写给自己的话：<br>
