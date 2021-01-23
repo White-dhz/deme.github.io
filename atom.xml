@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://demne.github.io</id>
-    <title>deme</title>
-    <updated>2021-01-23T05:56:07.321Z</updated>
+    <title>Demne</title>
+    <updated>2021-01-23T05:58:58.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://demne.github.io"/>
     <link rel="self" href="https://demne.github.io/atom.xml"/>
@@ -10,7 +10,7 @@
 </subtitle>
     <logo>https://demne.github.io/images/avatar.png</logo>
     <icon>https://demne.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, deme</rights>
+    <rights>All rights reserved 2021, Demne</rights>
     <entry>
         <title type="html"><![CDATA[明天]]></title>
         <id>https://demne.github.io/post/ming-tian/</id>
@@ -31,79 +31,5 @@
         <link href="https://demne.github.io/post/jie-shao/">
         </link>
         <updated>2020-05-09T11:27:58.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多年以后]]></title>
-        <id>https://demne.github.io/post/duo-nian-yi-hou/</id>
-        <link href="https://demne.github.io/post/duo-nian-yi-hou/">
-        </link>
-        <updated>2020-03-03T15:53:18.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记住]]></title>
-        <id>https://demne.github.io/post/ji-zhu/</id>
-        <link href="https://demne.github.io/post/ji-zhu/">
-        </link>
-        <updated>2020-02-28T14:41:23.000Z</updated>
-        <summary type="html"><![CDATA[<p>写给自己的话：<br>
-我要记住，<br>
-一个人，活着，意义不在于他活着，<br>
-不在于他做到了什么，<br>
-而是在于他做了什么，<br>
-记住，<br>
-做自己想做的人，<br>
-做自己想做的事，</p>
-<p>我想，<br>
-或许若干年后，<br>
-我再看到，<br>
-这段话，<br>
-我要想起，<strong>自己的初心</strong><br>
-要想起，自己所立下的誓言。<br>
-去努力奋斗，去拼搏，<br>
-别停下青春的脚步。</p>
-<p>如果说，<br>
-时代是一条大江，<br>
-一个人就是不起眼的一朵浪花，<br>
-虽然终会被潮流带走，<br>
-可他搏击、奋起，<br>
-反射过光辉，<br>
-也就无愧此生了。</p>
-<p>如果说，<br>
-时代的一粒灰，<br>
-落在一个人头上就是一座山，<br>
-所以只有愚公才会名传千古。</p>
-<pre><code>     不要让这个时代的悲哀，成为你的悲哀。
-</code></pre>
-]]></summary>
-        <content type="html"><![CDATA[<p>写给自己的话：<br>
-我要记住，<br>
-一个人，活着，意义不在于他活着，<br>
-不在于他做到了什么，<br>
-而是在于他做了什么，<br>
-记住，<br>
-做自己想做的人，<br>
-做自己想做的事，</p>
-<p>我想，<br>
-或许若干年后，<br>
-我再看到，<br>
-这段话，<br>
-我要想起，<strong>自己的初心</strong><br>
-要想起，自己所立下的誓言。<br>
-去努力奋斗，去拼搏，<br>
-别停下青春的脚步。</p>
-<p>如果说，<br>
-时代是一条大江，<br>
-一个人就是不起眼的一朵浪花，<br>
-虽然终会被潮流带走，<br>
-可他搏击、奋起，<br>
-反射过光辉，<br>
-也就无愧此生了。</p>
-<p>如果说，<br>
-时代的一粒灰，<br>
-落在一个人头上就是一座山，<br>
-所以只有愚公才会名传千古。</p>
-<pre><code>     不要让这个时代的悲哀，成为你的悲哀。
-</code></pre>
-]]></content>
     </entry>
 </feed>
