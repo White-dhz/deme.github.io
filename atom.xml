@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://demne.github.io</id>
     <title>Demne</title>
-    <updated>2021-01-23T06:01:28.819Z</updated>
+    <updated>2021-01-23T06:08:16.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://demne.github.io"/>
     <link rel="self" href="https://demne.github.io/atom.xml"/>
@@ -11,6 +11,13 @@
     <logo>https://demne.github.io/images/avatar.png</logo>
     <icon>https://demne.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Demne</rights>
+    <entry>
+        <title type="html"><![CDATA[日记（二）]]></title>
+        <id>https://demne.github.io/post/ri-ji-er/</id>
+        <link href="https://demne.github.io/post/ri-ji-er/">
+        </link>
+        <updated>2021-01-23T06:02:39.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[明天]]></title>
         <id>https://demne.github.io/post/ming-tian/</id>
